@@ -3,5 +3,5 @@
   "released": "2026-10-13",
   "notes_it": "Novità: tasto \"Controlla aggiornamenti\"; opzione \"Mantieni il foglio aperto\" con supporto a GridCraft (anche senza Excel); le righe non scrivibili su Excel non vanno più perse (coda di scrittura e file di recupero con ApeLog_Recupera_Righe.bat); ApeNode: nuovo filtro \"Escludi\". Corretto il blocco della ricezione dati con caratteri speciali come °.",
   "notes_en": "New: \"Check for updates\" button; \"Keep spreadsheet open\" option with GridCraft support (no Excel needed); rows that cannot be written to Excel are no longer lost (write queue and recovery file with ApeLog_Recupera_Righe.bat); ApeNode: new \"Exclude\" filter. Fixed data reception freezing on special characters such as °.",
-  "download_url": "https://terronolo.gumroad.com/l/Apelog_Pro"
+  "download_url": "https://gumroad.com/library"
 }
